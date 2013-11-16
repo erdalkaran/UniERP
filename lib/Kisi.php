@@ -2,6 +2,7 @@
 
 
 class Kisi {
+    public $baslangicYili;
     public $isim;
     public $soyisim;
     public $dogumTarihi;//sadece yil
